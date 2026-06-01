@@ -5,4 +5,4 @@ demo of THROWED magazine
 
 
 
-just run index html its just a websleve
+just run index html its just a websleve ::
